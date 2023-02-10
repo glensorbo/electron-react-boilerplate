@@ -6,6 +6,7 @@
 - React
 - React Router
 - Tailwindcss
+- "Link" between React and Electron
 
 ## How to
 
