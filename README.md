@@ -3,10 +3,17 @@
 ## Comes with
 
 - Electron
+- Axios
+- Moment
 - React
 - React Router
+- React Moment
+- React Select
+- Redux Toolkit
 - Tailwindcss
+- Tailwind-scrollbar
 - "Link" between React and Electron
+- Update Electron App
 
 ## How to
 
