@@ -39,3 +39,7 @@ app.on('activate', () => {
 ipcMain.handle('get-memory', async (_, data) => {
   return data;
 });
+
+ipcMain.handle('node', async (_, data) => {
+  return data;
+});
